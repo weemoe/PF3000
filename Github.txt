@@ -1,0 +1,14 @@
+GITHUB Commands
+
+1. Set up GIThub Poject folder on page
+
+2. git clone [url-link]
+
+3. Add a file:
+	create a file:
+		- git add file
+		- git commit file -m "COMMENT"
+		- git push
+
+4. Retirve file: 
+	git pull 
